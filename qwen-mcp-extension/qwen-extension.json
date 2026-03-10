@@ -1,0 +1,14 @@
+{
+  "name": "qwen-agents-toolpack",
+  "version": "1.0.0",
+  "displayName": "Qwen Agents Toolpack",
+  "description": "Port of 65+ Claude agent plugins with 152+ agents and 61+ tools",
+  "contextFileName": "QWEN.md",
+  "mcpServers": {
+    "agentsToolpackServer": {
+      "command": "node",
+      "args": ["${extensionPath}${/}dist${/}server.js"],
+      "cwd": "${extensionPath}"
+    }
+  }
+}

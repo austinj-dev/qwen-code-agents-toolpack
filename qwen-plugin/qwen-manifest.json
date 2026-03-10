@@ -1,0 +1,16 @@
+{
+  "name": "agents-toolpack",
+  "description": "Port of 65+ advanced agent plugins for Qwen Code CLI",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "type": "toolpack",
+  "qwen": {
+    "commands": [
+      "./qwen-plugin/commands/agents-list.js",
+      "./qwen-plugin/commands/agents-install.js",
+      "./qwen-plugin/commands/agents-info.js",
+      "./qwen-plugin/commands/agents-use.js",
+      "./qwen-plugin/commands/tools-run.js"
+    ]
+  }
+}

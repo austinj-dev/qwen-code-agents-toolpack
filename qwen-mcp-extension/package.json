@@ -1,0 +1,29 @@
+{
+  "name": "qwen-agents-toolpack",
+  "version": "1.0.0",
+  "description": "Qwen Extension using MCP protocol for 65+ Claude agent plugins",
+  "main": "dist/server.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "node dist/server.js"
+  },
+  "keywords": [
+    "qwen",
+    "mcp",
+    "extension",
+    "agents",
+    "tools",
+    "ai"
+  ],
+  "author": "Seth Hobson",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.4.0",
+    "zod": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}

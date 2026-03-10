@@ -1,0 +1,16 @@
+{
+  "name": "qwen-agents-toolpack",
+  "version": "1.0.0",
+  "description": "Qwen Extension: Port of 65+ Claude agent plugins with 152+ agents and 61+ tools",
+  "main": "src/index.js",
+  "type": "module",
+  "keywords": [
+    "qwen",
+    "extension",
+    "agents",
+    "tools",
+    "ai"
+  ],
+  "author": "Seth Hobson",
+  "license": "MIT"
+}

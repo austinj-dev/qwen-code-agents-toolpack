@@ -1,0 +1,1706 @@
+[
+  {
+    "type": "command",
+    "pluginName": "code-documentation",
+    "originalPath": "./plugins/code-documentation/commands/doc-generate.md",
+    "description": "Documentation generation, code explanation, and technical writing with automated doc generation and tutorial creation"
+  },
+  {
+    "type": "command",
+    "pluginName": "code-documentation",
+    "originalPath": "./plugins/code-documentation/commands/code-explain.md",
+    "description": "Documentation generation, code explanation, and technical writing with automated doc generation and tutorial creation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "code-documentation",
+    "originalPath": "./plugins/code-documentation/agents/docs-architect.md",
+    "description": "Documentation generation, code explanation, and technical writing with automated doc generation and tutorial creation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "code-documentation",
+    "originalPath": "./plugins/code-documentation/agents/tutorial-engineer.md",
+    "description": "Documentation generation, code explanation, and technical writing with automated doc generation and tutorial creation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "code-documentation",
+    "originalPath": "./plugins/code-documentation/agents/code-reviewer.md",
+    "description": "Documentation generation, code explanation, and technical writing with automated doc generation and tutorial creation"
+  },
+  {
+    "type": "command",
+    "pluginName": "debugging-toolkit",
+    "originalPath": "./plugins/debugging-toolkit/commands/smart-debug.md",
+    "description": "Interactive debugging, developer experience optimization, and smart debugging workflows"
+  },
+  {
+    "type": "agent",
+    "pluginName": "debugging-toolkit",
+    "originalPath": "./plugins/debugging-toolkit/agents/debugger.md",
+    "description": "Interactive debugging, developer experience optimization, and smart debugging workflows"
+  },
+  {
+    "type": "agent",
+    "pluginName": "debugging-toolkit",
+    "originalPath": "./plugins/debugging-toolkit/agents/dx-optimizer.md",
+    "description": "Interactive debugging, developer experience optimization, and smart debugging workflows"
+  },
+  {
+    "type": "command",
+    "pluginName": "git-pr-workflows",
+    "originalPath": "./plugins/git-pr-workflows/commands/pr-enhance.md",
+    "description": "Git workflow automation, pull request enhancement, and team onboarding processes"
+  },
+  {
+    "type": "command",
+    "pluginName": "git-pr-workflows",
+    "originalPath": "./plugins/git-pr-workflows/commands/onboard.md",
+    "description": "Git workflow automation, pull request enhancement, and team onboarding processes"
+  },
+  {
+    "type": "command",
+    "pluginName": "git-pr-workflows",
+    "originalPath": "./plugins/git-pr-workflows/commands/git-workflow.md",
+    "description": "Git workflow automation, pull request enhancement, and team onboarding processes"
+  },
+  {
+    "type": "agent",
+    "pluginName": "git-pr-workflows",
+    "originalPath": "./plugins/git-pr-workflows/agents/code-reviewer.md",
+    "description": "Git workflow automation, pull request enhancement, and team onboarding processes"
+  },
+  {
+    "type": "command",
+    "pluginName": "backend-development",
+    "originalPath": "./plugins/backend-development/commands/feature-development.md",
+    "description": "Backend API design, GraphQL architecture, workflow orchestration with Temporal, and test-driven backend development"
+  },
+  {
+    "type": "agent",
+    "pluginName": "backend-development",
+    "originalPath": "./plugins/backend-development/agents/backend-architect.md",
+    "description": "Backend API design, GraphQL architecture, workflow orchestration with Temporal, and test-driven backend development"
+  },
+  {
+    "type": "agent",
+    "pluginName": "backend-development",
+    "originalPath": "./plugins/backend-development/agents/graphql-architect.md",
+    "description": "Backend API design, GraphQL architecture, workflow orchestration with Temporal, and test-driven backend development"
+  },
+  {
+    "type": "agent",
+    "pluginName": "backend-development",
+    "originalPath": "./plugins/backend-development/agents/tdd-orchestrator.md",
+    "description": "Backend API design, GraphQL architecture, workflow orchestration with Temporal, and test-driven backend development"
+  },
+  {
+    "type": "agent",
+    "pluginName": "backend-development",
+    "originalPath": "./plugins/backend-development/agents/temporal-python-pro.md",
+    "description": "Backend API design, GraphQL architecture, workflow orchestration with Temporal, and test-driven backend development"
+  },
+  {
+    "type": "skill",
+    "pluginName": "backend-development",
+    "originalPath": "./plugins/backend-development/skills/api-design-principles",
+    "description": "Backend API design, GraphQL architecture, workflow orchestration with Temporal, and test-driven backend development"
+  },
+  {
+    "type": "skill",
+    "pluginName": "backend-development",
+    "originalPath": "./plugins/backend-development/skills/architecture-patterns",
+    "description": "Backend API design, GraphQL architecture, workflow orchestration with Temporal, and test-driven backend development"
+  },
+  {
+    "type": "skill",
+    "pluginName": "backend-development",
+    "originalPath": "./plugins/backend-development/skills/microservices-patterns",
+    "description": "Backend API design, GraphQL architecture, workflow orchestration with Temporal, and test-driven backend development"
+  },
+  {
+    "type": "skill",
+    "pluginName": "backend-development",
+    "originalPath": "./plugins/backend-development/skills/workflow-orchestration-patterns",
+    "description": "Backend API design, GraphQL architecture, workflow orchestration with Temporal, and test-driven backend development"
+  },
+  {
+    "type": "skill",
+    "pluginName": "backend-development",
+    "originalPath": "./plugins/backend-development/skills/temporal-python-testing",
+    "description": "Backend API design, GraphQL architecture, workflow orchestration with Temporal, and test-driven backend development"
+  },
+  {
+    "type": "command",
+    "pluginName": "frontend-mobile-development",
+    "originalPath": "./plugins/frontend-mobile-development/commands/component-scaffold.md",
+    "description": "Frontend UI development and mobile application implementation across platforms"
+  },
+  {
+    "type": "agent",
+    "pluginName": "frontend-mobile-development",
+    "originalPath": "./plugins/frontend-mobile-development/agents/frontend-developer.md",
+    "description": "Frontend UI development and mobile application implementation across platforms"
+  },
+  {
+    "type": "agent",
+    "pluginName": "frontend-mobile-development",
+    "originalPath": "./plugins/frontend-mobile-development/agents/mobile-developer.md",
+    "description": "Frontend UI development and mobile application implementation across platforms"
+  },
+  {
+    "type": "command",
+    "pluginName": "full-stack-orchestration",
+    "originalPath": "./plugins/full-stack-orchestration/commands/full-stack-feature.md",
+    "description": "End-to-end feature orchestration with testing, security, performance, and deployment"
+  },
+  {
+    "type": "agent",
+    "pluginName": "full-stack-orchestration",
+    "originalPath": "./plugins/full-stack-orchestration/agents/test-automator.md",
+    "description": "End-to-end feature orchestration with testing, security, performance, and deployment"
+  },
+  {
+    "type": "agent",
+    "pluginName": "full-stack-orchestration",
+    "originalPath": "./plugins/full-stack-orchestration/agents/security-auditor.md",
+    "description": "End-to-end feature orchestration with testing, security, performance, and deployment"
+  },
+  {
+    "type": "agent",
+    "pluginName": "full-stack-orchestration",
+    "originalPath": "./plugins/full-stack-orchestration/agents/performance-engineer.md",
+    "description": "End-to-end feature orchestration with testing, security, performance, and deployment"
+  },
+  {
+    "type": "agent",
+    "pluginName": "full-stack-orchestration",
+    "originalPath": "./plugins/full-stack-orchestration/agents/deployment-engineer.md",
+    "description": "End-to-end feature orchestration with testing, security, performance, and deployment"
+  },
+  {
+    "type": "command",
+    "pluginName": "unit-testing",
+    "originalPath": "./plugins/unit-testing/commands/test-generate.md",
+    "description": "Unit and integration test automation for Python and JavaScript with debugging support"
+  },
+  {
+    "type": "agent",
+    "pluginName": "unit-testing",
+    "originalPath": "./plugins/unit-testing/agents/test-automator.md",
+    "description": "Unit and integration test automation for Python and JavaScript with debugging support"
+  },
+  {
+    "type": "agent",
+    "pluginName": "unit-testing",
+    "originalPath": "./plugins/unit-testing/agents/debugger.md",
+    "description": "Unit and integration test automation for Python and JavaScript with debugging support"
+  },
+  {
+    "type": "command",
+    "pluginName": "tdd-workflows",
+    "originalPath": "./plugins/tdd-workflows/commands/tdd-cycle.md",
+    "description": "Test-driven development methodology with red-green-refactor cycles and code review"
+  },
+  {
+    "type": "command",
+    "pluginName": "tdd-workflows",
+    "originalPath": "./plugins/tdd-workflows/commands/tdd-red.md",
+    "description": "Test-driven development methodology with red-green-refactor cycles and code review"
+  },
+  {
+    "type": "command",
+    "pluginName": "tdd-workflows",
+    "originalPath": "./plugins/tdd-workflows/commands/tdd-green.md",
+    "description": "Test-driven development methodology with red-green-refactor cycles and code review"
+  },
+  {
+    "type": "command",
+    "pluginName": "tdd-workflows",
+    "originalPath": "./plugins/tdd-workflows/commands/tdd-refactor.md",
+    "description": "Test-driven development methodology with red-green-refactor cycles and code review"
+  },
+  {
+    "type": "agent",
+    "pluginName": "tdd-workflows",
+    "originalPath": "./plugins/tdd-workflows/agents/tdd-orchestrator.md",
+    "description": "Test-driven development methodology with red-green-refactor cycles and code review"
+  },
+  {
+    "type": "agent",
+    "pluginName": "tdd-workflows",
+    "originalPath": "./plugins/tdd-workflows/agents/code-reviewer.md",
+    "description": "Test-driven development methodology with red-green-refactor cycles and code review"
+  },
+  {
+    "type": "command",
+    "pluginName": "code-review-ai",
+    "originalPath": "./plugins/code-review-ai/commands/ai-review.md",
+    "description": "AI-powered architectural review and code quality analysis"
+  },
+  {
+    "type": "agent",
+    "pluginName": "code-review-ai",
+    "originalPath": "./plugins/code-review-ai/agents/architect-review.md",
+    "description": "AI-powered architectural review and code quality analysis"
+  },
+  {
+    "type": "command",
+    "pluginName": "code-refactoring",
+    "originalPath": "./plugins/code-refactoring/commands/refactor-clean.md",
+    "description": "Code cleanup, refactoring automation, and technical debt management with context restoration"
+  },
+  {
+    "type": "command",
+    "pluginName": "code-refactoring",
+    "originalPath": "./plugins/code-refactoring/commands/tech-debt.md",
+    "description": "Code cleanup, refactoring automation, and technical debt management with context restoration"
+  },
+  {
+    "type": "command",
+    "pluginName": "code-refactoring",
+    "originalPath": "./plugins/code-refactoring/commands/context-restore.md",
+    "description": "Code cleanup, refactoring automation, and technical debt management with context restoration"
+  },
+  {
+    "type": "agent",
+    "pluginName": "code-refactoring",
+    "originalPath": "./plugins/code-refactoring/agents/legacy-modernizer.md",
+    "description": "Code cleanup, refactoring automation, and technical debt management with context restoration"
+  },
+  {
+    "type": "agent",
+    "pluginName": "code-refactoring",
+    "originalPath": "./plugins/code-refactoring/agents/code-reviewer.md",
+    "description": "Code cleanup, refactoring automation, and technical debt management with context restoration"
+  },
+  {
+    "type": "command",
+    "pluginName": "dependency-management",
+    "originalPath": "./plugins/dependency-management/commands/deps-audit.md",
+    "description": "Dependency auditing, version management, and security vulnerability scanning"
+  },
+  {
+    "type": "agent",
+    "pluginName": "dependency-management",
+    "originalPath": "./plugins/dependency-management/agents/legacy-modernizer.md",
+    "description": "Dependency auditing, version management, and security vulnerability scanning"
+  },
+  {
+    "type": "command",
+    "pluginName": "error-debugging",
+    "originalPath": "./plugins/error-debugging/commands/error-analysis.md",
+    "description": "Error analysis, trace debugging, and multi-agent problem diagnosis"
+  },
+  {
+    "type": "command",
+    "pluginName": "error-debugging",
+    "originalPath": "./plugins/error-debugging/commands/error-trace.md",
+    "description": "Error analysis, trace debugging, and multi-agent problem diagnosis"
+  },
+  {
+    "type": "command",
+    "pluginName": "error-debugging",
+    "originalPath": "./plugins/error-debugging/commands/multi-agent-review.md",
+    "description": "Error analysis, trace debugging, and multi-agent problem diagnosis"
+  },
+  {
+    "type": "agent",
+    "pluginName": "error-debugging",
+    "originalPath": "./plugins/error-debugging/agents/debugger.md",
+    "description": "Error analysis, trace debugging, and multi-agent problem diagnosis"
+  },
+  {
+    "type": "agent",
+    "pluginName": "error-debugging",
+    "originalPath": "./plugins/error-debugging/agents/error-detective.md",
+    "description": "Error analysis, trace debugging, and multi-agent problem diagnosis"
+  },
+  {
+    "type": "command",
+    "pluginName": "team-collaboration",
+    "originalPath": "./plugins/team-collaboration/commands/issue.md",
+    "description": "Team workflows, issue management, standup automation, and developer experience optimization"
+  },
+  {
+    "type": "command",
+    "pluginName": "team-collaboration",
+    "originalPath": "./plugins/team-collaboration/commands/standup-notes.md",
+    "description": "Team workflows, issue management, standup automation, and developer experience optimization"
+  },
+  {
+    "type": "agent",
+    "pluginName": "team-collaboration",
+    "originalPath": "./plugins/team-collaboration/agents/dx-optimizer.md",
+    "description": "Team workflows, issue management, standup automation, and developer experience optimization"
+  },
+  {
+    "type": "command",
+    "pluginName": "llm-application-dev",
+    "originalPath": "./plugins/llm-application-dev/commands/langchain-agent.md",
+    "description": "LLM application development, prompt engineering, and AI assistant optimization"
+  },
+  {
+    "type": "command",
+    "pluginName": "llm-application-dev",
+    "originalPath": "./plugins/llm-application-dev/commands/ai-assistant.md",
+    "description": "LLM application development, prompt engineering, and AI assistant optimization"
+  },
+  {
+    "type": "command",
+    "pluginName": "llm-application-dev",
+    "originalPath": "./plugins/llm-application-dev/commands/prompt-optimize.md",
+    "description": "LLM application development, prompt engineering, and AI assistant optimization"
+  },
+  {
+    "type": "agent",
+    "pluginName": "llm-application-dev",
+    "originalPath": "./plugins/llm-application-dev/agents/ai-engineer.md",
+    "description": "LLM application development, prompt engineering, and AI assistant optimization"
+  },
+  {
+    "type": "agent",
+    "pluginName": "llm-application-dev",
+    "originalPath": "./plugins/llm-application-dev/agents/prompt-engineer.md",
+    "description": "LLM application development, prompt engineering, and AI assistant optimization"
+  },
+  {
+    "type": "skill",
+    "pluginName": "llm-application-dev",
+    "originalPath": "./plugins/llm-application-dev/skills/langchain-architecture",
+    "description": "LLM application development, prompt engineering, and AI assistant optimization"
+  },
+  {
+    "type": "skill",
+    "pluginName": "llm-application-dev",
+    "originalPath": "./plugins/llm-application-dev/skills/llm-evaluation",
+    "description": "LLM application development, prompt engineering, and AI assistant optimization"
+  },
+  {
+    "type": "skill",
+    "pluginName": "llm-application-dev",
+    "originalPath": "./plugins/llm-application-dev/skills/prompt-engineering-patterns",
+    "description": "LLM application development, prompt engineering, and AI assistant optimization"
+  },
+  {
+    "type": "skill",
+    "pluginName": "llm-application-dev",
+    "originalPath": "./plugins/llm-application-dev/skills/rag-implementation",
+    "description": "LLM application development, prompt engineering, and AI assistant optimization"
+  },
+  {
+    "type": "command",
+    "pluginName": "agent-orchestration",
+    "originalPath": "./plugins/agent-orchestration/commands/multi-agent-optimize.md",
+    "description": "Multi-agent system optimization, agent improvement workflows, and context management"
+  },
+  {
+    "type": "command",
+    "pluginName": "agent-orchestration",
+    "originalPath": "./plugins/agent-orchestration/commands/improve-agent.md",
+    "description": "Multi-agent system optimization, agent improvement workflows, and context management"
+  },
+  {
+    "type": "agent",
+    "pluginName": "agent-orchestration",
+    "originalPath": "./plugins/agent-orchestration/agents/context-manager.md",
+    "description": "Multi-agent system optimization, agent improvement workflows, and context management"
+  },
+  {
+    "type": "command",
+    "pluginName": "context-management",
+    "originalPath": "./plugins/context-management/commands/context-save.md",
+    "description": "Context persistence, restoration, and long-running conversation management"
+  },
+  {
+    "type": "command",
+    "pluginName": "context-management",
+    "originalPath": "./plugins/context-management/commands/context-restore.md",
+    "description": "Context persistence, restoration, and long-running conversation management"
+  },
+  {
+    "type": "agent",
+    "pluginName": "context-management",
+    "originalPath": "./plugins/context-management/agents/context-manager.md",
+    "description": "Context persistence, restoration, and long-running conversation management"
+  },
+  {
+    "type": "command",
+    "pluginName": "machine-learning-ops",
+    "originalPath": "./plugins/machine-learning-ops/commands/ml-pipeline.md",
+    "description": "ML model training pipelines, hyperparameter tuning, model deployment automation, experiment tracking, and MLOps workflows"
+  },
+  {
+    "type": "agent",
+    "pluginName": "machine-learning-ops",
+    "originalPath": "./plugins/machine-learning-ops/agents/data-scientist.md",
+    "description": "ML model training pipelines, hyperparameter tuning, model deployment automation, experiment tracking, and MLOps workflows"
+  },
+  {
+    "type": "agent",
+    "pluginName": "machine-learning-ops",
+    "originalPath": "./plugins/machine-learning-ops/agents/ml-engineer.md",
+    "description": "ML model training pipelines, hyperparameter tuning, model deployment automation, experiment tracking, and MLOps workflows"
+  },
+  {
+    "type": "agent",
+    "pluginName": "machine-learning-ops",
+    "originalPath": "./plugins/machine-learning-ops/agents/mlops-engineer.md",
+    "description": "ML model training pipelines, hyperparameter tuning, model deployment automation, experiment tracking, and MLOps workflows"
+  },
+  {
+    "type": "skill",
+    "pluginName": "machine-learning-ops",
+    "originalPath": "./plugins/machine-learning-ops/skills/ml-pipeline-workflow",
+    "description": "ML model training pipelines, hyperparameter tuning, model deployment automation, experiment tracking, and MLOps workflows"
+  },
+  {
+    "type": "command",
+    "pluginName": "data-engineering",
+    "originalPath": "./plugins/data-engineering/commands/data-driven-feature.md",
+    "description": "ETL pipeline construction, data warehouse design, batch processing workflows, and data-driven feature development"
+  },
+  {
+    "type": "command",
+    "pluginName": "data-engineering",
+    "originalPath": "./plugins/data-engineering/commands/data-pipeline.md",
+    "description": "ETL pipeline construction, data warehouse design, batch processing workflows, and data-driven feature development"
+  },
+  {
+    "type": "agent",
+    "pluginName": "data-engineering",
+    "originalPath": "./plugins/data-engineering/agents/data-engineer.md",
+    "description": "ETL pipeline construction, data warehouse design, batch processing workflows, and data-driven feature development"
+  },
+  {
+    "type": "agent",
+    "pluginName": "data-engineering",
+    "originalPath": "./plugins/data-engineering/agents/backend-architect.md",
+    "description": "ETL pipeline construction, data warehouse design, batch processing workflows, and data-driven feature development"
+  },
+  {
+    "type": "command",
+    "pluginName": "incident-response",
+    "originalPath": "./plugins/incident-response/commands/incident-response.md",
+    "description": "Production incident management, triage workflows, and automated incident resolution"
+  },
+  {
+    "type": "command",
+    "pluginName": "incident-response",
+    "originalPath": "./plugins/incident-response/commands/smart-fix.md",
+    "description": "Production incident management, triage workflows, and automated incident resolution"
+  },
+  {
+    "type": "agent",
+    "pluginName": "incident-response",
+    "originalPath": "./plugins/incident-response/agents/incident-responder.md",
+    "description": "Production incident management, triage workflows, and automated incident resolution"
+  },
+  {
+    "type": "agent",
+    "pluginName": "incident-response",
+    "originalPath": "./plugins/incident-response/agents/devops-troubleshooter.md",
+    "description": "Production incident management, triage workflows, and automated incident resolution"
+  },
+  {
+    "type": "command",
+    "pluginName": "error-diagnostics",
+    "originalPath": "./plugins/error-diagnostics/commands/error-trace.md",
+    "description": "Error tracing, root cause analysis, and smart debugging for production systems"
+  },
+  {
+    "type": "command",
+    "pluginName": "error-diagnostics",
+    "originalPath": "./plugins/error-diagnostics/commands/error-analysis.md",
+    "description": "Error tracing, root cause analysis, and smart debugging for production systems"
+  },
+  {
+    "type": "command",
+    "pluginName": "error-diagnostics",
+    "originalPath": "./plugins/error-diagnostics/commands/smart-debug.md",
+    "description": "Error tracing, root cause analysis, and smart debugging for production systems"
+  },
+  {
+    "type": "agent",
+    "pluginName": "error-diagnostics",
+    "originalPath": "./plugins/error-diagnostics/agents/debugger.md",
+    "description": "Error tracing, root cause analysis, and smart debugging for production systems"
+  },
+  {
+    "type": "agent",
+    "pluginName": "error-diagnostics",
+    "originalPath": "./plugins/error-diagnostics/agents/error-detective.md",
+    "description": "Error tracing, root cause analysis, and smart debugging for production systems"
+  },
+  {
+    "type": "command",
+    "pluginName": "distributed-debugging",
+    "originalPath": "./plugins/distributed-debugging/commands/debug-trace.md",
+    "description": "Distributed system tracing and debugging across microservices"
+  },
+  {
+    "type": "agent",
+    "pluginName": "distributed-debugging",
+    "originalPath": "./plugins/distributed-debugging/agents/error-detective.md",
+    "description": "Distributed system tracing and debugging across microservices"
+  },
+  {
+    "type": "agent",
+    "pluginName": "distributed-debugging",
+    "originalPath": "./plugins/distributed-debugging/agents/devops-troubleshooter.md",
+    "description": "Distributed system tracing and debugging across microservices"
+  },
+  {
+    "type": "command",
+    "pluginName": "observability-monitoring",
+    "originalPath": "./plugins/observability-monitoring/commands/monitor-setup.md",
+    "description": "Metrics collection, logging infrastructure, distributed tracing, SLO implementation, and monitoring dashboards"
+  },
+  {
+    "type": "command",
+    "pluginName": "observability-monitoring",
+    "originalPath": "./plugins/observability-monitoring/commands/slo-implement.md",
+    "description": "Metrics collection, logging infrastructure, distributed tracing, SLO implementation, and monitoring dashboards"
+  },
+  {
+    "type": "agent",
+    "pluginName": "observability-monitoring",
+    "originalPath": "./plugins/observability-monitoring/agents/observability-engineer.md",
+    "description": "Metrics collection, logging infrastructure, distributed tracing, SLO implementation, and monitoring dashboards"
+  },
+  {
+    "type": "agent",
+    "pluginName": "observability-monitoring",
+    "originalPath": "./plugins/observability-monitoring/agents/performance-engineer.md",
+    "description": "Metrics collection, logging infrastructure, distributed tracing, SLO implementation, and monitoring dashboards"
+  },
+  {
+    "type": "agent",
+    "pluginName": "observability-monitoring",
+    "originalPath": "./plugins/observability-monitoring/agents/database-optimizer.md",
+    "description": "Metrics collection, logging infrastructure, distributed tracing, SLO implementation, and monitoring dashboards"
+  },
+  {
+    "type": "agent",
+    "pluginName": "observability-monitoring",
+    "originalPath": "./plugins/observability-monitoring/agents/network-engineer.md",
+    "description": "Metrics collection, logging infrastructure, distributed tracing, SLO implementation, and monitoring dashboards"
+  },
+  {
+    "type": "skill",
+    "pluginName": "observability-monitoring",
+    "originalPath": "./plugins/observability-monitoring/skills/distributed-tracing",
+    "description": "Metrics collection, logging infrastructure, distributed tracing, SLO implementation, and monitoring dashboards"
+  },
+  {
+    "type": "skill",
+    "pluginName": "observability-monitoring",
+    "originalPath": "./plugins/observability-monitoring/skills/grafana-dashboards",
+    "description": "Metrics collection, logging infrastructure, distributed tracing, SLO implementation, and monitoring dashboards"
+  },
+  {
+    "type": "skill",
+    "pluginName": "observability-monitoring",
+    "originalPath": "./plugins/observability-monitoring/skills/prometheus-configuration",
+    "description": "Metrics collection, logging infrastructure, distributed tracing, SLO implementation, and monitoring dashboards"
+  },
+  {
+    "type": "skill",
+    "pluginName": "observability-monitoring",
+    "originalPath": "./plugins/observability-monitoring/skills/slo-implementation",
+    "description": "Metrics collection, logging infrastructure, distributed tracing, SLO implementation, and monitoring dashboards"
+  },
+  {
+    "type": "agent",
+    "pluginName": "deployment-strategies",
+    "originalPath": "./plugins/deployment-strategies/agents/deployment-engineer.md",
+    "description": "Deployment patterns, rollback automation, and infrastructure templates"
+  },
+  {
+    "type": "agent",
+    "pluginName": "deployment-strategies",
+    "originalPath": "./plugins/deployment-strategies/agents/terraform-specialist.md",
+    "description": "Deployment patterns, rollback automation, and infrastructure templates"
+  },
+  {
+    "type": "command",
+    "pluginName": "deployment-validation",
+    "originalPath": "./plugins/deployment-validation/commands/config-validate.md",
+    "description": "Pre-deployment checks, configuration validation, and deployment readiness assessment"
+  },
+  {
+    "type": "agent",
+    "pluginName": "deployment-validation",
+    "originalPath": "./plugins/deployment-validation/agents/cloud-architect.md",
+    "description": "Pre-deployment checks, configuration validation, and deployment readiness assessment"
+  },
+  {
+    "type": "agent",
+    "pluginName": "kubernetes-operations",
+    "originalPath": "./plugins/kubernetes-operations/agents/kubernetes-architect.md",
+    "description": "Kubernetes manifest generation, networking configuration, security policies, observability setup, GitOps workflows, and auto-scaling"
+  },
+  {
+    "type": "skill",
+    "pluginName": "kubernetes-operations",
+    "originalPath": "./plugins/kubernetes-operations/skills/gitops-workflow",
+    "description": "Kubernetes manifest generation, networking configuration, security policies, observability setup, GitOps workflows, and auto-scaling"
+  },
+  {
+    "type": "skill",
+    "pluginName": "kubernetes-operations",
+    "originalPath": "./plugins/kubernetes-operations/skills/helm-chart-scaffolding",
+    "description": "Kubernetes manifest generation, networking configuration, security policies, observability setup, GitOps workflows, and auto-scaling"
+  },
+  {
+    "type": "skill",
+    "pluginName": "kubernetes-operations",
+    "originalPath": "./plugins/kubernetes-operations/skills/k8s-manifest-generator",
+    "description": "Kubernetes manifest generation, networking configuration, security policies, observability setup, GitOps workflows, and auto-scaling"
+  },
+  {
+    "type": "skill",
+    "pluginName": "kubernetes-operations",
+    "originalPath": "./plugins/kubernetes-operations/skills/k8s-security-policies",
+    "description": "Kubernetes manifest generation, networking configuration, security policies, observability setup, GitOps workflows, and auto-scaling"
+  },
+  {
+    "type": "agent",
+    "pluginName": "cloud-infrastructure",
+    "originalPath": "./plugins/cloud-infrastructure/agents/cloud-architect.md",
+    "description": "Cloud architecture design for AWS/Azure/GCP, Kubernetes cluster configuration, Terraform infrastructure-as-code, hybrid cloud networking, and multi-cloud cost optimization"
+  },
+  {
+    "type": "agent",
+    "pluginName": "cloud-infrastructure",
+    "originalPath": "./plugins/cloud-infrastructure/agents/kubernetes-architect.md",
+    "description": "Cloud architecture design for AWS/Azure/GCP, Kubernetes cluster configuration, Terraform infrastructure-as-code, hybrid cloud networking, and multi-cloud cost optimization"
+  },
+  {
+    "type": "agent",
+    "pluginName": "cloud-infrastructure",
+    "originalPath": "./plugins/cloud-infrastructure/agents/hybrid-cloud-architect.md",
+    "description": "Cloud architecture design for AWS/Azure/GCP, Kubernetes cluster configuration, Terraform infrastructure-as-code, hybrid cloud networking, and multi-cloud cost optimization"
+  },
+  {
+    "type": "agent",
+    "pluginName": "cloud-infrastructure",
+    "originalPath": "./plugins/cloud-infrastructure/agents/terraform-specialist.md",
+    "description": "Cloud architecture design for AWS/Azure/GCP, Kubernetes cluster configuration, Terraform infrastructure-as-code, hybrid cloud networking, and multi-cloud cost optimization"
+  },
+  {
+    "type": "agent",
+    "pluginName": "cloud-infrastructure",
+    "originalPath": "./plugins/cloud-infrastructure/agents/network-engineer.md",
+    "description": "Cloud architecture design for AWS/Azure/GCP, Kubernetes cluster configuration, Terraform infrastructure-as-code, hybrid cloud networking, and multi-cloud cost optimization"
+  },
+  {
+    "type": "agent",
+    "pluginName": "cloud-infrastructure",
+    "originalPath": "./plugins/cloud-infrastructure/agents/deployment-engineer.md",
+    "description": "Cloud architecture design for AWS/Azure/GCP, Kubernetes cluster configuration, Terraform infrastructure-as-code, hybrid cloud networking, and multi-cloud cost optimization"
+  },
+  {
+    "type": "skill",
+    "pluginName": "cloud-infrastructure",
+    "originalPath": "./plugins/cloud-infrastructure/skills/cost-optimization",
+    "description": "Cloud architecture design for AWS/Azure/GCP, Kubernetes cluster configuration, Terraform infrastructure-as-code, hybrid cloud networking, and multi-cloud cost optimization"
+  },
+  {
+    "type": "skill",
+    "pluginName": "cloud-infrastructure",
+    "originalPath": "./plugins/cloud-infrastructure/skills/hybrid-cloud-networking",
+    "description": "Cloud architecture design for AWS/Azure/GCP, Kubernetes cluster configuration, Terraform infrastructure-as-code, hybrid cloud networking, and multi-cloud cost optimization"
+  },
+  {
+    "type": "skill",
+    "pluginName": "cloud-infrastructure",
+    "originalPath": "./plugins/cloud-infrastructure/skills/multi-cloud-architecture",
+    "description": "Cloud architecture design for AWS/Azure/GCP, Kubernetes cluster configuration, Terraform infrastructure-as-code, hybrid cloud networking, and multi-cloud cost optimization"
+  },
+  {
+    "type": "skill",
+    "pluginName": "cloud-infrastructure",
+    "originalPath": "./plugins/cloud-infrastructure/skills/terraform-module-library",
+    "description": "Cloud architecture design for AWS/Azure/GCP, Kubernetes cluster configuration, Terraform infrastructure-as-code, hybrid cloud networking, and multi-cloud cost optimization"
+  },
+  {
+    "type": "command",
+    "pluginName": "cicd-automation",
+    "originalPath": "./plugins/cicd-automation/commands/workflow-automate.md",
+    "description": "CI/CD pipeline configuration, GitHub Actions/GitLab CI workflow setup, and automated deployment pipeline orchestration"
+  },
+  {
+    "type": "agent",
+    "pluginName": "cicd-automation",
+    "originalPath": "./plugins/cicd-automation/agents/deployment-engineer.md",
+    "description": "CI/CD pipeline configuration, GitHub Actions/GitLab CI workflow setup, and automated deployment pipeline orchestration"
+  },
+  {
+    "type": "agent",
+    "pluginName": "cicd-automation",
+    "originalPath": "./plugins/cicd-automation/agents/devops-troubleshooter.md",
+    "description": "CI/CD pipeline configuration, GitHub Actions/GitLab CI workflow setup, and automated deployment pipeline orchestration"
+  },
+  {
+    "type": "agent",
+    "pluginName": "cicd-automation",
+    "originalPath": "./plugins/cicd-automation/agents/kubernetes-architect.md",
+    "description": "CI/CD pipeline configuration, GitHub Actions/GitLab CI workflow setup, and automated deployment pipeline orchestration"
+  },
+  {
+    "type": "agent",
+    "pluginName": "cicd-automation",
+    "originalPath": "./plugins/cicd-automation/agents/cloud-architect.md",
+    "description": "CI/CD pipeline configuration, GitHub Actions/GitLab CI workflow setup, and automated deployment pipeline orchestration"
+  },
+  {
+    "type": "agent",
+    "pluginName": "cicd-automation",
+    "originalPath": "./plugins/cicd-automation/agents/terraform-specialist.md",
+    "description": "CI/CD pipeline configuration, GitHub Actions/GitLab CI workflow setup, and automated deployment pipeline orchestration"
+  },
+  {
+    "type": "skill",
+    "pluginName": "cicd-automation",
+    "originalPath": "./plugins/cicd-automation/skills/deployment-pipeline-design",
+    "description": "CI/CD pipeline configuration, GitHub Actions/GitLab CI workflow setup, and automated deployment pipeline orchestration"
+  },
+  {
+    "type": "skill",
+    "pluginName": "cicd-automation",
+    "originalPath": "./plugins/cicd-automation/skills/github-actions-templates",
+    "description": "CI/CD pipeline configuration, GitHub Actions/GitLab CI workflow setup, and automated deployment pipeline orchestration"
+  },
+  {
+    "type": "skill",
+    "pluginName": "cicd-automation",
+    "originalPath": "./plugins/cicd-automation/skills/gitlab-ci-patterns",
+    "description": "CI/CD pipeline configuration, GitHub Actions/GitLab CI workflow setup, and automated deployment pipeline orchestration"
+  },
+  {
+    "type": "skill",
+    "pluginName": "cicd-automation",
+    "originalPath": "./plugins/cicd-automation/skills/secrets-management",
+    "description": "CI/CD pipeline configuration, GitHub Actions/GitLab CI workflow setup, and automated deployment pipeline orchestration"
+  },
+  {
+    "type": "command",
+    "pluginName": "application-performance",
+    "originalPath": "./plugins/application-performance/commands/performance-optimization.md",
+    "description": "Application profiling, performance optimization, and observability for frontend and backend systems"
+  },
+  {
+    "type": "agent",
+    "pluginName": "application-performance",
+    "originalPath": "./plugins/application-performance/agents/performance-engineer.md",
+    "description": "Application profiling, performance optimization, and observability for frontend and backend systems"
+  },
+  {
+    "type": "agent",
+    "pluginName": "application-performance",
+    "originalPath": "./plugins/application-performance/agents/frontend-developer.md",
+    "description": "Application profiling, performance optimization, and observability for frontend and backend systems"
+  },
+  {
+    "type": "agent",
+    "pluginName": "application-performance",
+    "originalPath": "./plugins/application-performance/agents/observability-engineer.md",
+    "description": "Application profiling, performance optimization, and observability for frontend and backend systems"
+  },
+  {
+    "type": "command",
+    "pluginName": "database-cloud-optimization",
+    "originalPath": "./plugins/database-cloud-optimization/commands/cost-optimize.md",
+    "description": "Database query optimization, cloud cost optimization, and scalability improvements"
+  },
+  {
+    "type": "agent",
+    "pluginName": "database-cloud-optimization",
+    "originalPath": "./plugins/database-cloud-optimization/agents/database-optimizer.md",
+    "description": "Database query optimization, cloud cost optimization, and scalability improvements"
+  },
+  {
+    "type": "agent",
+    "pluginName": "database-cloud-optimization",
+    "originalPath": "./plugins/database-cloud-optimization/agents/database-architect.md",
+    "description": "Database query optimization, cloud cost optimization, and scalability improvements"
+  },
+  {
+    "type": "agent",
+    "pluginName": "database-cloud-optimization",
+    "originalPath": "./plugins/database-cloud-optimization/agents/backend-architect.md",
+    "description": "Database query optimization, cloud cost optimization, and scalability improvements"
+  },
+  {
+    "type": "agent",
+    "pluginName": "database-cloud-optimization",
+    "originalPath": "./plugins/database-cloud-optimization/agents/cloud-architect.md",
+    "description": "Database query optimization, cloud cost optimization, and scalability improvements"
+  },
+  {
+    "type": "command",
+    "pluginName": "comprehensive-review",
+    "originalPath": "./plugins/comprehensive-review/commands/full-review.md",
+    "description": "Multi-perspective code analysis covering architecture, security, and best practices"
+  },
+  {
+    "type": "command",
+    "pluginName": "comprehensive-review",
+    "originalPath": "./plugins/comprehensive-review/commands/pr-enhance.md",
+    "description": "Multi-perspective code analysis covering architecture, security, and best practices"
+  },
+  {
+    "type": "agent",
+    "pluginName": "comprehensive-review",
+    "originalPath": "./plugins/comprehensive-review/agents/code-reviewer.md",
+    "description": "Multi-perspective code analysis covering architecture, security, and best practices"
+  },
+  {
+    "type": "agent",
+    "pluginName": "comprehensive-review",
+    "originalPath": "./plugins/comprehensive-review/agents/architect-review.md",
+    "description": "Multi-perspective code analysis covering architecture, security, and best practices"
+  },
+  {
+    "type": "agent",
+    "pluginName": "comprehensive-review",
+    "originalPath": "./plugins/comprehensive-review/agents/security-auditor.md",
+    "description": "Multi-perspective code analysis covering architecture, security, and best practices"
+  },
+  {
+    "type": "command",
+    "pluginName": "performance-testing-review",
+    "originalPath": "./plugins/performance-testing-review/commands/ai-review.md",
+    "description": "Performance analysis, test coverage review, and AI-powered code quality assessment"
+  },
+  {
+    "type": "command",
+    "pluginName": "performance-testing-review",
+    "originalPath": "./plugins/performance-testing-review/commands/multi-agent-review.md",
+    "description": "Performance analysis, test coverage review, and AI-powered code quality assessment"
+  },
+  {
+    "type": "agent",
+    "pluginName": "performance-testing-review",
+    "originalPath": "./plugins/performance-testing-review/agents/performance-engineer.md",
+    "description": "Performance analysis, test coverage review, and AI-powered code quality assessment"
+  },
+  {
+    "type": "agent",
+    "pluginName": "performance-testing-review",
+    "originalPath": "./plugins/performance-testing-review/agents/test-automator.md",
+    "description": "Performance analysis, test coverage review, and AI-powered code quality assessment"
+  },
+  {
+    "type": "command",
+    "pluginName": "framework-migration",
+    "originalPath": "./plugins/framework-migration/commands/legacy-modernize.md",
+    "description": "Framework updates, migration planning, and architectural transformation workflows"
+  },
+  {
+    "type": "command",
+    "pluginName": "framework-migration",
+    "originalPath": "./plugins/framework-migration/commands/code-migrate.md",
+    "description": "Framework updates, migration planning, and architectural transformation workflows"
+  },
+  {
+    "type": "command",
+    "pluginName": "framework-migration",
+    "originalPath": "./plugins/framework-migration/commands/deps-upgrade.md",
+    "description": "Framework updates, migration planning, and architectural transformation workflows"
+  },
+  {
+    "type": "agent",
+    "pluginName": "framework-migration",
+    "originalPath": "./plugins/framework-migration/agents/legacy-modernizer.md",
+    "description": "Framework updates, migration planning, and architectural transformation workflows"
+  },
+  {
+    "type": "agent",
+    "pluginName": "framework-migration",
+    "originalPath": "./plugins/framework-migration/agents/architect-review.md",
+    "description": "Framework updates, migration planning, and architectural transformation workflows"
+  },
+  {
+    "type": "skill",
+    "pluginName": "framework-migration",
+    "originalPath": "./plugins/framework-migration/skills/angular-migration",
+    "description": "Framework updates, migration planning, and architectural transformation workflows"
+  },
+  {
+    "type": "skill",
+    "pluginName": "framework-migration",
+    "originalPath": "./plugins/framework-migration/skills/database-migration",
+    "description": "Framework updates, migration planning, and architectural transformation workflows"
+  },
+  {
+    "type": "skill",
+    "pluginName": "framework-migration",
+    "originalPath": "./plugins/framework-migration/skills/dependency-upgrade",
+    "description": "Framework updates, migration planning, and architectural transformation workflows"
+  },
+  {
+    "type": "skill",
+    "pluginName": "framework-migration",
+    "originalPath": "./plugins/framework-migration/skills/react-modernization",
+    "description": "Framework updates, migration planning, and architectural transformation workflows"
+  },
+  {
+    "type": "command",
+    "pluginName": "codebase-cleanup",
+    "originalPath": "./plugins/codebase-cleanup/commands/deps-audit.md",
+    "description": "Technical debt reduction, dependency updates, and code refactoring automation"
+  },
+  {
+    "type": "command",
+    "pluginName": "codebase-cleanup",
+    "originalPath": "./plugins/codebase-cleanup/commands/tech-debt.md",
+    "description": "Technical debt reduction, dependency updates, and code refactoring automation"
+  },
+  {
+    "type": "command",
+    "pluginName": "codebase-cleanup",
+    "originalPath": "./plugins/codebase-cleanup/commands/refactor-clean.md",
+    "description": "Technical debt reduction, dependency updates, and code refactoring automation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "codebase-cleanup",
+    "originalPath": "./plugins/codebase-cleanup/agents/test-automator.md",
+    "description": "Technical debt reduction, dependency updates, and code refactoring automation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "codebase-cleanup",
+    "originalPath": "./plugins/codebase-cleanup/agents/code-reviewer.md",
+    "description": "Technical debt reduction, dependency updates, and code refactoring automation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "database-design",
+    "originalPath": "./plugins/database-design/agents/database-architect.md",
+    "description": "Database architecture, schema design, and SQL optimization for production systems"
+  },
+  {
+    "type": "agent",
+    "pluginName": "database-design",
+    "originalPath": "./plugins/database-design/agents/sql-pro.md",
+    "description": "Database architecture, schema design, and SQL optimization for production systems"
+  },
+  {
+    "type": "skill",
+    "pluginName": "database-design",
+    "originalPath": "./plugins/database-design/skills/postgresql",
+    "description": "Database architecture, schema design, and SQL optimization for production systems"
+  },
+  {
+    "type": "command",
+    "pluginName": "database-migrations",
+    "originalPath": "./plugins/database-migrations/commands/sql-migrations.md",
+    "description": "Database migration automation, observability, and cross-database migration strategies"
+  },
+  {
+    "type": "command",
+    "pluginName": "database-migrations",
+    "originalPath": "./plugins/database-migrations/commands/migration-observability.md",
+    "description": "Database migration automation, observability, and cross-database migration strategies"
+  },
+  {
+    "type": "agent",
+    "pluginName": "database-migrations",
+    "originalPath": "./plugins/database-migrations/agents/database-optimizer.md",
+    "description": "Database migration automation, observability, and cross-database migration strategies"
+  },
+  {
+    "type": "agent",
+    "pluginName": "database-migrations",
+    "originalPath": "./plugins/database-migrations/agents/database-admin.md",
+    "description": "Database migration automation, observability, and cross-database migration strategies"
+  },
+  {
+    "type": "command",
+    "pluginName": "security-scanning",
+    "originalPath": "./plugins/security-scanning/commands/security-hardening.md",
+    "description": "SAST analysis, dependency vulnerability scanning, OWASP Top 10 compliance, container security scanning, and automated security hardening"
+  },
+  {
+    "type": "command",
+    "pluginName": "security-scanning",
+    "originalPath": "./plugins/security-scanning/commands/security-sast.md",
+    "description": "SAST analysis, dependency vulnerability scanning, OWASP Top 10 compliance, container security scanning, and automated security hardening"
+  },
+  {
+    "type": "command",
+    "pluginName": "security-scanning",
+    "originalPath": "./plugins/security-scanning/commands/security-dependencies.md",
+    "description": "SAST analysis, dependency vulnerability scanning, OWASP Top 10 compliance, container security scanning, and automated security hardening"
+  },
+  {
+    "type": "agent",
+    "pluginName": "security-scanning",
+    "originalPath": "./plugins/security-scanning/agents/security-auditor.md",
+    "description": "SAST analysis, dependency vulnerability scanning, OWASP Top 10 compliance, container security scanning, and automated security hardening"
+  },
+  {
+    "type": "skill",
+    "pluginName": "security-scanning",
+    "originalPath": "./plugins/security-scanning/skills/sast-configuration",
+    "description": "SAST analysis, dependency vulnerability scanning, OWASP Top 10 compliance, container security scanning, and automated security hardening"
+  },
+  {
+    "type": "command",
+    "pluginName": "security-compliance",
+    "originalPath": "./plugins/security-compliance/commands/compliance-check.md",
+    "description": "SOC2, HIPAA, and GDPR compliance validation, secrets scanning, compliance checklists, and regulatory documentation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "security-compliance",
+    "originalPath": "./plugins/security-compliance/agents/security-auditor.md",
+    "description": "SOC2, HIPAA, and GDPR compliance validation, secrets scanning, compliance checklists, and regulatory documentation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "backend-api-security",
+    "originalPath": "./plugins/backend-api-security/agents/backend-security-coder.md",
+    "description": "API security hardening, authentication implementation, authorization patterns, rate limiting, and input validation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "backend-api-security",
+    "originalPath": "./plugins/backend-api-security/agents/backend-architect.md",
+    "description": "API security hardening, authentication implementation, authorization patterns, rate limiting, and input validation"
+  },
+  {
+    "type": "command",
+    "pluginName": "frontend-mobile-security",
+    "originalPath": "./plugins/frontend-mobile-security/commands/xss-scan.md",
+    "description": "XSS prevention, CSRF protection, content security policies, mobile app security, and secure storage patterns"
+  },
+  {
+    "type": "agent",
+    "pluginName": "frontend-mobile-security",
+    "originalPath": "./plugins/frontend-mobile-security/agents/frontend-security-coder.md",
+    "description": "XSS prevention, CSRF protection, content security policies, mobile app security, and secure storage patterns"
+  },
+  {
+    "type": "agent",
+    "pluginName": "frontend-mobile-security",
+    "originalPath": "./plugins/frontend-mobile-security/agents/mobile-security-coder.md",
+    "description": "XSS prevention, CSRF protection, content security policies, mobile app security, and secure storage patterns"
+  },
+  {
+    "type": "agent",
+    "pluginName": "frontend-mobile-security",
+    "originalPath": "./plugins/frontend-mobile-security/agents/frontend-developer.md",
+    "description": "XSS prevention, CSRF protection, content security policies, mobile app security, and secure storage patterns"
+  },
+  {
+    "type": "agent",
+    "pluginName": "data-validation-suite",
+    "originalPath": "./plugins/data-validation-suite/agents/backend-security-coder.md",
+    "description": "Schema validation, data quality monitoring, streaming validation pipelines, and input validation for backend APIs"
+  },
+  {
+    "type": "agent",
+    "pluginName": "api-scaffolding",
+    "originalPath": "./plugins/api-scaffolding/agents/backend-architect.md",
+    "description": "REST and GraphQL API scaffolding, framework selection, backend architecture, and API generation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "api-scaffolding",
+    "originalPath": "./plugins/api-scaffolding/agents/graphql-architect.md",
+    "description": "REST and GraphQL API scaffolding, framework selection, backend architecture, and API generation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "api-scaffolding",
+    "originalPath": "./plugins/api-scaffolding/agents/fastapi-pro.md",
+    "description": "REST and GraphQL API scaffolding, framework selection, backend architecture, and API generation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "api-scaffolding",
+    "originalPath": "./plugins/api-scaffolding/agents/django-pro.md",
+    "description": "REST and GraphQL API scaffolding, framework selection, backend architecture, and API generation"
+  },
+  {
+    "type": "skill",
+    "pluginName": "api-scaffolding",
+    "originalPath": "./plugins/api-scaffolding/skills/fastapi-templates",
+    "description": "REST and GraphQL API scaffolding, framework selection, backend architecture, and API generation"
+  },
+  {
+    "type": "command",
+    "pluginName": "api-testing-observability",
+    "originalPath": "./plugins/api-testing-observability/commands/api-mock.md",
+    "description": "API testing automation, request mocking, OpenAPI documentation generation, observability setup, and monitoring"
+  },
+  {
+    "type": "agent",
+    "pluginName": "api-testing-observability",
+    "originalPath": "./plugins/api-testing-observability/agents/api-documenter.md",
+    "description": "API testing automation, request mocking, OpenAPI documentation generation, observability setup, and monitoring"
+  },
+  {
+    "type": "agent",
+    "pluginName": "seo-content-creation",
+    "originalPath": "./plugins/seo-content-creation/agents/seo-content-writer.md",
+    "description": "SEO content writing, planning, and quality auditing with E-E-A-T optimization"
+  },
+  {
+    "type": "agent",
+    "pluginName": "seo-content-creation",
+    "originalPath": "./plugins/seo-content-creation/agents/seo-content-planner.md",
+    "description": "SEO content writing, planning, and quality auditing with E-E-A-T optimization"
+  },
+  {
+    "type": "agent",
+    "pluginName": "seo-content-creation",
+    "originalPath": "./plugins/seo-content-creation/agents/seo-content-auditor.md",
+    "description": "SEO content writing, planning, and quality auditing with E-E-A-T optimization"
+  },
+  {
+    "type": "agent",
+    "pluginName": "seo-technical-optimization",
+    "originalPath": "./plugins/seo-technical-optimization/agents/seo-meta-optimizer.md",
+    "description": "Technical SEO optimization including meta tags, keywords, structure, and featured snippets"
+  },
+  {
+    "type": "agent",
+    "pluginName": "seo-technical-optimization",
+    "originalPath": "./plugins/seo-technical-optimization/agents/seo-keyword-strategist.md",
+    "description": "Technical SEO optimization including meta tags, keywords, structure, and featured snippets"
+  },
+  {
+    "type": "agent",
+    "pluginName": "seo-technical-optimization",
+    "originalPath": "./plugins/seo-technical-optimization/agents/seo-structure-architect.md",
+    "description": "Technical SEO optimization including meta tags, keywords, structure, and featured snippets"
+  },
+  {
+    "type": "agent",
+    "pluginName": "seo-technical-optimization",
+    "originalPath": "./plugins/seo-technical-optimization/agents/seo-snippet-hunter.md",
+    "description": "Technical SEO optimization including meta tags, keywords, structure, and featured snippets"
+  },
+  {
+    "type": "agent",
+    "pluginName": "seo-analysis-monitoring",
+    "originalPath": "./plugins/seo-analysis-monitoring/agents/seo-content-refresher.md",
+    "description": "Content freshness analysis, cannibalization detection, and authority building for SEO"
+  },
+  {
+    "type": "agent",
+    "pluginName": "seo-analysis-monitoring",
+    "originalPath": "./plugins/seo-analysis-monitoring/agents/seo-cannibalization-detector.md",
+    "description": "Content freshness analysis, cannibalization detection, and authority building for SEO"
+  },
+  {
+    "type": "agent",
+    "pluginName": "seo-analysis-monitoring",
+    "originalPath": "./plugins/seo-analysis-monitoring/agents/seo-authority-builder.md",
+    "description": "Content freshness analysis, cannibalization detection, and authority building for SEO"
+  },
+  {
+    "type": "command",
+    "pluginName": "documentation-generation",
+    "originalPath": "./plugins/documentation-generation/commands/doc-generate.md",
+    "description": "OpenAPI specification generation, Mermaid diagram creation, tutorial writing, API reference documentation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "documentation-generation",
+    "originalPath": "./plugins/documentation-generation/agents/docs-architect.md",
+    "description": "OpenAPI specification generation, Mermaid diagram creation, tutorial writing, API reference documentation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "documentation-generation",
+    "originalPath": "./plugins/documentation-generation/agents/api-documenter.md",
+    "description": "OpenAPI specification generation, Mermaid diagram creation, tutorial writing, API reference documentation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "documentation-generation",
+    "originalPath": "./plugins/documentation-generation/agents/mermaid-expert.md",
+    "description": "OpenAPI specification generation, Mermaid diagram creation, tutorial writing, API reference documentation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "documentation-generation",
+    "originalPath": "./plugins/documentation-generation/agents/tutorial-engineer.md",
+    "description": "OpenAPI specification generation, Mermaid diagram creation, tutorial writing, API reference documentation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "documentation-generation",
+    "originalPath": "./plugins/documentation-generation/agents/reference-builder.md",
+    "description": "OpenAPI specification generation, Mermaid diagram creation, tutorial writing, API reference documentation"
+  },
+  {
+    "type": "command",
+    "pluginName": "c4-architecture",
+    "originalPath": "./plugins/c4-architecture/commands/c4-architecture.md",
+    "description": "Comprehensive C4 architecture documentation workflow with bottom-up code analysis, component synthesis, container mapping, and context diagram generation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "c4-architecture",
+    "originalPath": "./plugins/c4-architecture/agents/c4-code.md",
+    "description": "Comprehensive C4 architecture documentation workflow with bottom-up code analysis, component synthesis, container mapping, and context diagram generation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "c4-architecture",
+    "originalPath": "./plugins/c4-architecture/agents/c4-component.md",
+    "description": "Comprehensive C4 architecture documentation workflow with bottom-up code analysis, component synthesis, container mapping, and context diagram generation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "c4-architecture",
+    "originalPath": "./plugins/c4-architecture/agents/c4-container.md",
+    "description": "Comprehensive C4 architecture documentation workflow with bottom-up code analysis, component synthesis, container mapping, and context diagram generation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "c4-architecture",
+    "originalPath": "./plugins/c4-architecture/agents/c4-context.md",
+    "description": "Comprehensive C4 architecture documentation workflow with bottom-up code analysis, component synthesis, container mapping, and context diagram generation"
+  },
+  {
+    "type": "command",
+    "pluginName": "multi-platform-apps",
+    "originalPath": "./plugins/multi-platform-apps/commands/multi-platform.md",
+    "description": "Cross-platform application development coordinating web, iOS, Android, and desktop implementations"
+  },
+  {
+    "type": "agent",
+    "pluginName": "multi-platform-apps",
+    "originalPath": "./plugins/multi-platform-apps/agents/mobile-developer.md",
+    "description": "Cross-platform application development coordinating web, iOS, Android, and desktop implementations"
+  },
+  {
+    "type": "agent",
+    "pluginName": "multi-platform-apps",
+    "originalPath": "./plugins/multi-platform-apps/agents/flutter-expert.md",
+    "description": "Cross-platform application development coordinating web, iOS, Android, and desktop implementations"
+  },
+  {
+    "type": "agent",
+    "pluginName": "multi-platform-apps",
+    "originalPath": "./plugins/multi-platform-apps/agents/ios-developer.md",
+    "description": "Cross-platform application development coordinating web, iOS, Android, and desktop implementations"
+  },
+  {
+    "type": "agent",
+    "pluginName": "multi-platform-apps",
+    "originalPath": "./plugins/multi-platform-apps/agents/frontend-developer.md",
+    "description": "Cross-platform application development coordinating web, iOS, Android, and desktop implementations"
+  },
+  {
+    "type": "agent",
+    "pluginName": "multi-platform-apps",
+    "originalPath": "./plugins/multi-platform-apps/agents/backend-architect.md",
+    "description": "Cross-platform application development coordinating web, iOS, Android, and desktop implementations"
+  },
+  {
+    "type": "agent",
+    "pluginName": "multi-platform-apps",
+    "originalPath": "./plugins/multi-platform-apps/agents/ui-ux-designer.md",
+    "description": "Cross-platform application development coordinating web, iOS, Android, and desktop implementations"
+  },
+  {
+    "type": "agent",
+    "pluginName": "business-analytics",
+    "originalPath": "./plugins/business-analytics/agents/business-analyst.md",
+    "description": "Business metrics analysis, KPI tracking, financial reporting, and data-driven decision making"
+  },
+  {
+    "type": "agent",
+    "pluginName": "hr-legal-compliance",
+    "originalPath": "./plugins/hr-legal-compliance/agents/hr-pro.md",
+    "description": "HR policy documentation, legal compliance templates (GDPR/SOC2/HIPAA), employment contracts, and regulatory documentation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "hr-legal-compliance",
+    "originalPath": "./plugins/hr-legal-compliance/agents/legal-advisor.md",
+    "description": "HR policy documentation, legal compliance templates (GDPR/SOC2/HIPAA), employment contracts, and regulatory documentation"
+  },
+  {
+    "type": "agent",
+    "pluginName": "customer-sales-automation",
+    "originalPath": "./plugins/customer-sales-automation/agents/customer-support.md",
+    "description": "Customer support workflow automation, sales pipeline management, email campaigns, and CRM integration"
+  },
+  {
+    "type": "agent",
+    "pluginName": "customer-sales-automation",
+    "originalPath": "./plugins/customer-sales-automation/agents/sales-automator.md",
+    "description": "Customer support workflow automation, sales pipeline management, email campaigns, and CRM integration"
+  },
+  {
+    "type": "agent",
+    "pluginName": "content-marketing",
+    "originalPath": "./plugins/content-marketing/agents/content-marketer.md",
+    "description": "Content marketing strategy, web research, and information synthesis for marketing operations"
+  },
+  {
+    "type": "agent",
+    "pluginName": "content-marketing",
+    "originalPath": "./plugins/content-marketing/agents/search-specialist.md",
+    "description": "Content marketing strategy, web research, and information synthesis for marketing operations"
+  },
+  {
+    "type": "agent",
+    "pluginName": "blockchain-web3",
+    "originalPath": "./plugins/blockchain-web3/agents/blockchain-developer.md",
+    "description": "Smart contract development with Solidity, DeFi protocol implementation, NFT platforms, and Web3 application architecture"
+  },
+  {
+    "type": "skill",
+    "pluginName": "blockchain-web3",
+    "originalPath": "./plugins/blockchain-web3/skills/defi-protocol-templates",
+    "description": "Smart contract development with Solidity, DeFi protocol implementation, NFT platforms, and Web3 application architecture"
+  },
+  {
+    "type": "skill",
+    "pluginName": "blockchain-web3",
+    "originalPath": "./plugins/blockchain-web3/skills/nft-standards",
+    "description": "Smart contract development with Solidity, DeFi protocol implementation, NFT platforms, and Web3 application architecture"
+  },
+  {
+    "type": "skill",
+    "pluginName": "blockchain-web3",
+    "originalPath": "./plugins/blockchain-web3/skills/solidity-security",
+    "description": "Smart contract development with Solidity, DeFi protocol implementation, NFT platforms, and Web3 application architecture"
+  },
+  {
+    "type": "skill",
+    "pluginName": "blockchain-web3",
+    "originalPath": "./plugins/blockchain-web3/skills/web3-testing",
+    "description": "Smart contract development with Solidity, DeFi protocol implementation, NFT platforms, and Web3 application architecture"
+  },
+  {
+    "type": "agent",
+    "pluginName": "quantitative-trading",
+    "originalPath": "./plugins/quantitative-trading/agents/quant-analyst.md",
+    "description": "Quantitative analysis, algorithmic trading strategies, financial modeling, portfolio risk management, and backtesting"
+  },
+  {
+    "type": "agent",
+    "pluginName": "quantitative-trading",
+    "originalPath": "./plugins/quantitative-trading/agents/risk-manager.md",
+    "description": "Quantitative analysis, algorithmic trading strategies, financial modeling, portfolio risk management, and backtesting"
+  },
+  {
+    "type": "agent",
+    "pluginName": "payment-processing",
+    "originalPath": "./plugins/payment-processing/agents/payment-integration.md",
+    "description": "Payment gateway integration with Stripe, PayPal, checkout flow implementation, subscription billing, and PCI compliance"
+  },
+  {
+    "type": "skill",
+    "pluginName": "payment-processing",
+    "originalPath": "./plugins/payment-processing/skills/billing-automation",
+    "description": "Payment gateway integration with Stripe, PayPal, checkout flow implementation, subscription billing, and PCI compliance"
+  },
+  {
+    "type": "skill",
+    "pluginName": "payment-processing",
+    "originalPath": "./plugins/payment-processing/skills/paypal-integration",
+    "description": "Payment gateway integration with Stripe, PayPal, checkout flow implementation, subscription billing, and PCI compliance"
+  },
+  {
+    "type": "skill",
+    "pluginName": "payment-processing",
+    "originalPath": "./plugins/payment-processing/skills/pci-compliance",
+    "description": "Payment gateway integration with Stripe, PayPal, checkout flow implementation, subscription billing, and PCI compliance"
+  },
+  {
+    "type": "skill",
+    "pluginName": "payment-processing",
+    "originalPath": "./plugins/payment-processing/skills/stripe-integration",
+    "description": "Payment gateway integration with Stripe, PayPal, checkout flow implementation, subscription billing, and PCI compliance"
+  },
+  {
+    "type": "agent",
+    "pluginName": "game-development",
+    "originalPath": "./plugins/game-development/agents/unity-developer.md",
+    "description": "Unity game development with C# scripting, Minecraft server plugin development with Bukkit/Spigot APIs"
+  },
+  {
+    "type": "agent",
+    "pluginName": "game-development",
+    "originalPath": "./plugins/game-development/agents/minecraft-bukkit-pro.md",
+    "description": "Unity game development with C# scripting, Minecraft server plugin development with Bukkit/Spigot APIs"
+  },
+  {
+    "type": "command",
+    "pluginName": "accessibility-compliance",
+    "originalPath": "./plugins/accessibility-compliance/commands/accessibility-audit.md",
+    "description": "WCAG accessibility auditing, compliance validation, UI testing for screen readers, keyboard navigation, and inclusive design"
+  },
+  {
+    "type": "agent",
+    "pluginName": "accessibility-compliance",
+    "originalPath": "./plugins/accessibility-compliance/agents/ui-visual-validator.md",
+    "description": "WCAG accessibility auditing, compliance validation, UI testing for screen readers, keyboard navigation, and inclusive design"
+  },
+  {
+    "type": "command",
+    "pluginName": "python-development",
+    "originalPath": "./plugins/python-development/commands/python-scaffold.md",
+    "description": "Modern Python development with Python 3.12+, Django, FastAPI, async patterns, and production best practices"
+  },
+  {
+    "type": "agent",
+    "pluginName": "python-development",
+    "originalPath": "./plugins/python-development/agents/python-pro.md",
+    "description": "Modern Python development with Python 3.12+, Django, FastAPI, async patterns, and production best practices"
+  },
+  {
+    "type": "agent",
+    "pluginName": "python-development",
+    "originalPath": "./plugins/python-development/agents/django-pro.md",
+    "description": "Modern Python development with Python 3.12+, Django, FastAPI, async patterns, and production best practices"
+  },
+  {
+    "type": "agent",
+    "pluginName": "python-development",
+    "originalPath": "./plugins/python-development/agents/fastapi-pro.md",
+    "description": "Modern Python development with Python 3.12+, Django, FastAPI, async patterns, and production best practices"
+  },
+  {
+    "type": "skill",
+    "pluginName": "python-development",
+    "originalPath": "./plugins/python-development/skills/async-python-patterns",
+    "description": "Modern Python development with Python 3.12+, Django, FastAPI, async patterns, and production best practices"
+  },
+  {
+    "type": "skill",
+    "pluginName": "python-development",
+    "originalPath": "./plugins/python-development/skills/python-testing-patterns",
+    "description": "Modern Python development with Python 3.12+, Django, FastAPI, async patterns, and production best practices"
+  },
+  {
+    "type": "skill",
+    "pluginName": "python-development",
+    "originalPath": "./plugins/python-development/skills/python-packaging",
+    "description": "Modern Python development with Python 3.12+, Django, FastAPI, async patterns, and production best practices"
+  },
+  {
+    "type": "skill",
+    "pluginName": "python-development",
+    "originalPath": "./plugins/python-development/skills/python-performance-optimization",
+    "description": "Modern Python development with Python 3.12+, Django, FastAPI, async patterns, and production best practices"
+  },
+  {
+    "type": "skill",
+    "pluginName": "python-development",
+    "originalPath": "./plugins/python-development/skills/uv-package-manager",
+    "description": "Modern Python development with Python 3.12+, Django, FastAPI, async patterns, and production best practices"
+  },
+  {
+    "type": "command",
+    "pluginName": "javascript-typescript",
+    "originalPath": "./plugins/javascript-typescript/commands/typescript-scaffold.md",
+    "description": "JavaScript and TypeScript development with ES6+, Node.js, React, and modern web frameworks"
+  },
+  {
+    "type": "agent",
+    "pluginName": "javascript-typescript",
+    "originalPath": "./plugins/javascript-typescript/agents/javascript-pro.md",
+    "description": "JavaScript and TypeScript development with ES6+, Node.js, React, and modern web frameworks"
+  },
+  {
+    "type": "agent",
+    "pluginName": "javascript-typescript",
+    "originalPath": "./plugins/javascript-typescript/agents/typescript-pro.md",
+    "description": "JavaScript and TypeScript development with ES6+, Node.js, React, and modern web frameworks"
+  },
+  {
+    "type": "skill",
+    "pluginName": "javascript-typescript",
+    "originalPath": "./plugins/javascript-typescript/skills/typescript-advanced-types",
+    "description": "JavaScript and TypeScript development with ES6+, Node.js, React, and modern web frameworks"
+  },
+  {
+    "type": "skill",
+    "pluginName": "javascript-typescript",
+    "originalPath": "./plugins/javascript-typescript/skills/nodejs-backend-patterns",
+    "description": "JavaScript and TypeScript development with ES6+, Node.js, React, and modern web frameworks"
+  },
+  {
+    "type": "skill",
+    "pluginName": "javascript-typescript",
+    "originalPath": "./plugins/javascript-typescript/skills/javascript-testing-patterns",
+    "description": "JavaScript and TypeScript development with ES6+, Node.js, React, and modern web frameworks"
+  },
+  {
+    "type": "skill",
+    "pluginName": "javascript-typescript",
+    "originalPath": "./plugins/javascript-typescript/skills/modern-javascript-patterns",
+    "description": "JavaScript and TypeScript development with ES6+, Node.js, React, and modern web frameworks"
+  },
+  {
+    "type": "command",
+    "pluginName": "systems-programming",
+    "originalPath": "./plugins/systems-programming/commands/rust-project.md",
+    "description": "Systems programming with Rust, Go, C, and C++ for performance-critical and low-level development"
+  },
+  {
+    "type": "agent",
+    "pluginName": "systems-programming",
+    "originalPath": "./plugins/systems-programming/agents/rust-pro.md",
+    "description": "Systems programming with Rust, Go, C, and C++ for performance-critical and low-level development"
+  },
+  {
+    "type": "agent",
+    "pluginName": "systems-programming",
+    "originalPath": "./plugins/systems-programming/agents/golang-pro.md",
+    "description": "Systems programming with Rust, Go, C, and C++ for performance-critical and low-level development"
+  },
+  {
+    "type": "agent",
+    "pluginName": "systems-programming",
+    "originalPath": "./plugins/systems-programming/agents/c-pro.md",
+    "description": "Systems programming with Rust, Go, C, and C++ for performance-critical and low-level development"
+  },
+  {
+    "type": "agent",
+    "pluginName": "systems-programming",
+    "originalPath": "./plugins/systems-programming/agents/cpp-pro.md",
+    "description": "Systems programming with Rust, Go, C, and C++ for performance-critical and low-level development"
+  },
+  {
+    "type": "agent",
+    "pluginName": "jvm-languages",
+    "originalPath": "./plugins/jvm-languages/agents/java-pro.md",
+    "description": "JVM language development including Java, Scala, and C# with enterprise patterns and frameworks"
+  },
+  {
+    "type": "agent",
+    "pluginName": "jvm-languages",
+    "originalPath": "./plugins/jvm-languages/agents/scala-pro.md",
+    "description": "JVM language development including Java, Scala, and C# with enterprise patterns and frameworks"
+  },
+  {
+    "type": "agent",
+    "pluginName": "jvm-languages",
+    "originalPath": "./plugins/jvm-languages/agents/csharp-pro.md",
+    "description": "JVM language development including Java, Scala, and C# with enterprise patterns and frameworks"
+  },
+  {
+    "type": "agent",
+    "pluginName": "web-scripting",
+    "originalPath": "./plugins/web-scripting/agents/php-pro.md",
+    "description": "Web scripting with PHP and Ruby for web applications, CMS development, and backend services"
+  },
+  {
+    "type": "agent",
+    "pluginName": "web-scripting",
+    "originalPath": "./plugins/web-scripting/agents/ruby-pro.md",
+    "description": "Web scripting with PHP and Ruby for web applications, CMS development, and backend services"
+  },
+  {
+    "type": "agent",
+    "pluginName": "functional-programming",
+    "originalPath": "./plugins/functional-programming/agents/elixir-pro.md",
+    "description": "Functional programming with Elixir, OTP patterns, Phoenix framework, and distributed systems"
+  },
+  {
+    "type": "agent",
+    "pluginName": "julia-development",
+    "originalPath": "./plugins/julia-development/agents/julia-pro.md",
+    "description": "Modern Julia development with Julia 1.10+, package management, scientific computing, high-performance numerical code, and production best practices"
+  },
+  {
+    "type": "agent",
+    "pluginName": "arm-cortex-microcontrollers",
+    "originalPath": "./plugins/arm-cortex-microcontrollers/agents/arm-cortex-expert.md",
+    "description": "ARM Cortex-M firmware development for Teensy, STM32, nRF52, and SAMD with peripheral drivers and memory safety patterns"
+  },
+  {
+    "type": "agent",
+    "pluginName": "shell-scripting",
+    "originalPath": "./plugins/shell-scripting/agents/bash-pro.md",
+    "description": "Production-grade Bash scripting with defensive programming, POSIX compliance, and comprehensive testing"
+  },
+  {
+    "type": "agent",
+    "pluginName": "shell-scripting",
+    "originalPath": "./plugins/shell-scripting/agents/posix-shell-pro.md",
+    "description": "Production-grade Bash scripting with defensive programming, POSIX compliance, and comprehensive testing"
+  },
+  {
+    "type": "skill",
+    "pluginName": "shell-scripting",
+    "originalPath": "./plugins/shell-scripting/skills/bash-defensive-patterns/SKILL.md",
+    "description": "Production-grade Bash scripting with defensive programming, POSIX compliance, and comprehensive testing"
+  },
+  {
+    "type": "skill",
+    "pluginName": "shell-scripting",
+    "originalPath": "./plugins/shell-scripting/skills/shellcheck-configuration/SKILL.md",
+    "description": "Production-grade Bash scripting with defensive programming, POSIX compliance, and comprehensive testing"
+  },
+  {
+    "type": "skill",
+    "pluginName": "shell-scripting",
+    "originalPath": "./plugins/shell-scripting/skills/bats-testing-patterns/SKILL.md",
+    "description": "Production-grade Bash scripting with defensive programming, POSIX compliance, and comprehensive testing"
+  },
+  {
+    "type": "skill",
+    "pluginName": "developer-essentials",
+    "originalPath": "./plugins/developer-essentials/skills/git-advanced-workflows",
+    "description": "Essential developer skills including Git workflows, SQL optimization, error handling, code review, E2E testing, authentication, debugging, and monorepo management"
+  },
+  {
+    "type": "skill",
+    "pluginName": "developer-essentials",
+    "originalPath": "./plugins/developer-essentials/skills/sql-optimization-patterns",
+    "description": "Essential developer skills including Git workflows, SQL optimization, error handling, code review, E2E testing, authentication, debugging, and monorepo management"
+  },
+  {
+    "type": "skill",
+    "pluginName": "developer-essentials",
+    "originalPath": "./plugins/developer-essentials/skills/error-handling-patterns",
+    "description": "Essential developer skills including Git workflows, SQL optimization, error handling, code review, E2E testing, authentication, debugging, and monorepo management"
+  },
+  {
+    "type": "skill",
+    "pluginName": "developer-essentials",
+    "originalPath": "./plugins/developer-essentials/skills/code-review-excellence",
+    "description": "Essential developer skills including Git workflows, SQL optimization, error handling, code review, E2E testing, authentication, debugging, and monorepo management"
+  },
+  {
+    "type": "skill",
+    "pluginName": "developer-essentials",
+    "originalPath": "./plugins/developer-essentials/skills/e2e-testing-patterns",
+    "description": "Essential developer skills including Git workflows, SQL optimization, error handling, code review, E2E testing, authentication, debugging, and monorepo management"
+  },
+  {
+    "type": "skill",
+    "pluginName": "developer-essentials",
+    "originalPath": "./plugins/developer-essentials/skills/auth-implementation-patterns",
+    "description": "Essential developer skills including Git workflows, SQL optimization, error handling, code review, E2E testing, authentication, debugging, and monorepo management"
+  },
+  {
+    "type": "skill",
+    "pluginName": "developer-essentials",
+    "originalPath": "./plugins/developer-essentials/skills/debugging-strategies",
+    "description": "Essential developer skills including Git workflows, SQL optimization, error handling, code review, E2E testing, authentication, debugging, and monorepo management"
+  },
+  {
+    "type": "skill",
+    "pluginName": "developer-essentials",
+    "originalPath": "./plugins/developer-essentials/skills/monorepo-management",
+    "description": "Essential developer skills including Git workflows, SQL optimization, error handling, code review, E2E testing, authentication, debugging, and monorepo management"
+  }
+]

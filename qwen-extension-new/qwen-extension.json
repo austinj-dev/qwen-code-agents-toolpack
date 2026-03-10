@@ -1,0 +1,38 @@
+{
+  "name": "qwen-agents-toolpack",
+  "displayName": "Qwen Agents Toolpack",
+  "description": "Port of 65+ Claude agent plugins with 152+ agents and 61+ tools",
+  "version": "1.0.0",
+  "publisher": "agents-converter",
+  "engines": {
+    "qwen": "^0.4.0"
+  },
+  "main": "./src/index.js",
+  "activationEvents": [
+    "onStartup"
+  ],
+  "contributes": {
+    "tools": [
+      {
+        "id": "git-advanced-workflows",
+        "location": "./src/tools/git-advanced-workflows.js",
+        "functionName": "gitAdvancedWorkflowsTool"
+      },
+      {
+        "id": "backend-architect",
+        "location": "./src/tools/backend-architect.js",
+        "functionName": "backendArchitectTool"
+      },
+      {
+        "id": "python-pro",
+        "location": "./src/tools/python-pro.js",
+        "functionName": "pythonProTool"
+      },
+      {
+        "id": "security-auditor",
+        "location": "./src/tools/security-auditor.js",
+        "functionName": "securityAuditorTool"
+      }
+    ]
+  }
+}

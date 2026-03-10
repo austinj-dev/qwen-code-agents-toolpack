@@ -1,0 +1,26 @@
+{
+  "name": "qwen-agents-toolpack",
+  "displayName": "Qwen Agents Toolpack",
+  "description": "Port of 65+ Claude agent plugins with 152+ agents and 61+ tools",
+  "version": "1.0.0",
+  "publisher": "agents-converter",
+  "engines": {
+    "qwen": "^0.4.0"
+  },
+  "main": "./src/index.js",
+  "activationEvents": [
+    "onStartup"
+  ],
+  "contributes": {
+    "tools": [
+      {
+        "id": "agents-toolpack-tools",
+        "location": "./src/tools/index.js"
+      },
+      {
+        "id": "agents-toolpack-agents",
+        "location": "./src/agents/index.js"
+      }
+    ]
+  }
+}
